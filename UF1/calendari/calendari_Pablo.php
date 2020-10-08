@@ -62,3 +62,5 @@ foreach($meses as $clau=>$valor){
 echo "\n</table>";
 }
 ?>
+</body>
+</html>

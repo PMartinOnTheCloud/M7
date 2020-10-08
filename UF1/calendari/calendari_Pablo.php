@@ -59,7 +59,7 @@ foreach($meses as $clau=>$valor){
         }
     $x+=1;
     }
-echo "\n</table>";
+echo "\n</table>\n";
 }
 ?>
 </body>
